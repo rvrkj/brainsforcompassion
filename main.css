@@ -633,13 +633,19 @@ color: #174457;
   background-image: url(images/flower.png);
 }
 
-.aboutus-bcg{
-  background-image: url(images/about-us-img.svg);
-}
+/* .aboutus-bcg{
+  background-image: url(images/aboutpink-bg.svg);
+} */
 
 .founder-bcg{
   background-image: url(images/founder-bcg.svg);
   background-position: center;
+}
+.what-we-offer-bcg{
+  background-image: url(images/what-we-offer.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .yellow-hexagon-bcg{
@@ -682,6 +688,7 @@ color: #174457;
 .rect-bcg{
   background-image: url(images/Rectangle\ 401.svg);
   padding-top: 20px;
+  background-repeat: no-repeat;
   
 }
 
